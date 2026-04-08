@@ -1,0 +1,13 @@
+fiscal_year,year,only_nse_no_of_issues,only_nse_amount_cr,only_bse_no_of_issues,only_bse_amount_cr,both_nse_and_bse_no_of_issues,both_nse_and_bse_amount_cr,total_no_of_issues,total_amount_cr,released_on,updated_on,data_source,data_url
+2013-14,2014,1,160,0,0,16,13503,17,13663,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,2015,2,725,8,2326,41,26051,51,29102,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,2016,0,0,2,462,22,14126,24,14588,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,2017,0,0,0,0,20,8464.35,20,8464.35,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,2018,0,0,1,36.2538,52,67220.57,53,67256.82380000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,2019,0,0,1,113.25139,13,8565.07,14,8678.32139,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,2020,0,0,0,0,14,54389,14,54389,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,2021,0,0,0,0,31,78738,31,78738,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,2022,0,0,0,0,29,31441,29,31441,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,2023,0,0,0,0,11,8212.34,11,8212.34,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,2024,3,266.5377597,0,0,58,68704.95355,61,68972,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,2025,4,3064.8883,4,544.1286399999975,83,131987.927332425,91,135596.944272425,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105

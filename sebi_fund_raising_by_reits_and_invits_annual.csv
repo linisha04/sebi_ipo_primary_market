@@ -1,0 +1,13 @@
+fiscal_year,year,reits_listed_no_of_issues,reits_listed_amount_cr,invits_public_issue_no_of_issues,invits_public_issue_amount_cr,invits_private_placement_no_of_issues,invits_private_placement_amount_cr,total_no_of_issues,total_amount_cr,released_on,updated_on,data_source,data_url
+2013-14,2014,,,,,,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,2015,,,,,,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,2016,,,,,,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,2017,,,,,,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,2018,0.0,0.0,2.0,7282.84,0.0,0.0,2.0,7282.84,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,2019,1.0,4750.0,0.0,0.0,2.0,9785.0,3.0,14535.0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,2020,0.0,0.0,1.0,2514.0,3.0,8258.0,4.0,10772.0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,2021,3.0,11985.0,0.0,0.0,3.0,40431.0,6.0,52416.0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,2022,2.0,950.0,2.0,9019.0,6.0,11593.0,8.0,21562.0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,2023,0.0,0.0,0.0,0.0,7.0,6360.0,7.0,6360.0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,2024,3.0,5905.0,6.0,8969.0,8.0,24150.0,17.0,39024.0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,2025,2.0,4728.0,9.0,22735.0,2.0,3979.22,13.0,31442.22,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105

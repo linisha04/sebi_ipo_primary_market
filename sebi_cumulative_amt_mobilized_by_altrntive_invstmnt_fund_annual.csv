@@ -1,0 +1,89 @@
+fiscal_year,category,commitments_raised_inr_crore,funds_raised_inr_crore,investments_made_inr_crore,released_on,updated_on,data_source,data_url
+2014-15,A. Category I,8663.33,381.89,223.84,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,B. Category II,12085.02,2906.57,2479.63,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,C. Category III,1864.01,662.72,477.48,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,Infrastructure Fund,6861,233.07,170.25,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,SME Fund,135,0,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,Social Venture Fund,564.9,78.21,38.91,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,Total,22612.36,3951.18,3180.95,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,Venture Capital Fund,1102.43,70.61,14.68,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,A. Category I,10568.07,1875.47,960.9,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,B. Category II,24061.58,5946.27,4867.87,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,C. Category III,4249.21,1682.55,1528.04,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,Infrastructure Fund,6787.81,1076.88,501.78,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,SME Fund,161.44,103.79,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,Social Venture Fund,734.65,235.87,129.41,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,Total,38878.86,9504.29,7356.81,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,Venture Capital Fund,2884.17,458.93,329.71,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,A. Category I,20600.64,4041.51,2828.11,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,B. Category II,51734.48,14545.8,11501.73,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,C. Category III,11968.69,4103.87,3907.35,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,Infrastructure Fund,6828.55,2288.54,1693.1,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,SME Fund,207.83,124.4,22.4,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,Social Venture Fund,994.12,413.9,263.88,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,Total,84303.81,22691.18,18237.19,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,Venture Capital Fund,12570.14,1214.67,848.73,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,A. Category I,28035.85,7787.49,5845.42,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,B. Category II,105798.54,24685.32,21073.05,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,C. Category III,31260.88,8482.94,8180.68,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,Infrastructure Fund,9527.34,4150.62,3462.31,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,SME Fund,224.83,174.88,25.7,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,Social Venture Fund,1135.48,551.4,476.36,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,Total,165095.27,40955.75,35099.15,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,Venture Capital Fund,17148.2,2910.59,1881.05,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,A. Category I,33533.56,10794.28,8222.66,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,B. Category II,205360.05,50451.35,34023.28,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,C. Category III,43254.74,24030.73,19155.63,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,Infrastructure Fund,12082.22,5734.38,4733.3,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,SME Fund,260.86,195.89,47.35,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,Social Venture Fund,1314.64,421.78,295.36,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,Total,282148.35,85276.37,61401.57,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,Venture Capital Fund,19875.84,4442.23,3146.65,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,A. Category I,38745,13789.27,10893,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,B. Category II,282013,83554.05,68085.75,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,C. Category III,49230,36865.99,30801.78,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,Infrastructure Fund,11119,6450.14,5464.12,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,SME Fund,522,208,59.42,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,Social Venture Fund,1980,859.46,797.3,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,Total,369988,134209.31,109780.53,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,Venture Capital Fund,25124,6271.67,4572.16,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,A. Category I,44559.52999999999,18472,14840,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,B. Category II,356626.65,124524,101088,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,C. Category III,50029.83,43527,37475,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,Infrastructure Fund,12202.41,7787,6741,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,SME Fund,595.13,100,46,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,Social Venture Fund,3691.07,1027,1002,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,Total,451216.01,186523,153403,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,Venture Capital Fund,28070.92,9558,7051,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,A. Category I,53374.06,24369.670000000002,18611.93,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,B. Category II,519189.47,161973.47,140113.93,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,C. Category III,68795.58,43671.51,41757.64,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,Infrastructure Fund,11852.4,8819.26,7624.45,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,SME Fund,1180.58,71.83,64.95,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,Social Venture Fund,2896.52,2463.47,1105.55,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,Total,641359.11,230014.65,200483.5,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,Venture Capital Fund,37444.56,13015.11,9816.98,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,A. Category I,58929.34,29000.100000000002,23798.02,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,B. Category II,693945.44,223457.3,199451.62,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,C. Category III,80899.57,61406.01,60809,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,Infrastructure Fund,15581.22,7911.52,6821.32,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,SME Fund,149.33,198.8,164.7,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,Social Venture Fund,1473.04,2100.54,578.17,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,Total,833774.35,313863.41,284058.64,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,Venture Capital Fund,41725.75,18789.24,16233.83,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,A. Category I,76865,28283.19,24012.58,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,B. Category II,912903,266296.21,242915.09,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,C. Category III,145132,71029.83,71055.1,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,Infrastructure Fund,18850,5466.11,4742.64,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,SME Fund,1169,61.64,52.19,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,Social Venture Fund,3492,564.51,331.33,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,Total,1134900,365609.23,337982.77,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,Venture Capital Fund,53354,22190.93,18886.42,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,A. Category I,89083,40790,32522,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,B. Category II,1030041,321227,276033,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,C. Category III,229927,89950,98491,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,Infrastructure Fund,19650,8467,5450,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,SME Fund,1219,714,624,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,Social Venture Fund,2121,1900,1521,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,Total,1349051,451967,407046,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,Venture Capital Fund,61932,29709,24927,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105

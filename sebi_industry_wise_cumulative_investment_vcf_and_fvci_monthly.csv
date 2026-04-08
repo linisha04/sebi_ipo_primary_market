@@ -1,0 +1,491 @@
+year,quarter,sector,vcf_inr_crore,fvci_inr_crore,total_inr_crore,released_on,updated_on,data_source,data_url
+2013,Q1,Information technology,744.086,3908.803,4652.889,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Information technology,787.4810466109998,4035.504055388,4761.405101999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Information technology,846.3411259999999,4191.9530817,4971.374207700001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Information technology,954.2073210109999,4498.786926888001,5325.484247899001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Information technology,974,4529,5380,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Information technology,1006.143610411,4340.770175903999,5214.013650014999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Information technology,1071.8036907639998,4433.205108304,5359.868662768,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Information technology,1365.8811785900002,4530.362970875874,5760.694013165875,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Information technology,1334.7498414230001,4964.676257996781,6422.145963119781,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Information technology,1599.350308488,4207.255330422876,5602.4555026108765,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Information technology,1806.4459756130002,4875.156090522874,6441.051929835874,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Information technology,1838.8313489939987,4850.183895836953,6412.27510853095,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Information technology,974,4529,5380,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Information technology,1335,4965,6422,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Information technology,1326,5310,6359,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Information technology,1224.0888151540003,5106.366290164002,6091.3949690180025,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Information technology,1210,4805,6015,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Information technology,1232.2610000000004,2209.773,3442.0340000000006,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Information technology,1251.511,4733.024,5984.535,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Information technology,1101,4527,5628,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Information technology,1025,4129,5154,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Information technology,1091,4192,5283,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Information technology,1127,4103,5230,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Information technology,1140,4478,5618,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Information technology,1028,4457,5485,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Information technology,980.16,3789.89,4770.05,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Information technology,3936,172,4108,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Information technology,3678.36,172.11,3850.47,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Information technology,1015.29,4059.217,5074.507,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Information technology,981.85,3991.717,4973.567,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Information technology,954.9,4004.056,4958.956,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Information technology,848.253,3871.013,4719.266,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Information technology,767,3497,4264,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Information technology,741,3072,3813,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Information technology,672,3296,3968,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Information technology,613,3280,3893,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Information technology,504,3261,3765,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Information technology,399,3110,3509,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Information technology,351,3176,3527,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Information technology,270,3176,3446,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Information technology,311,3448,3759,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Information technology,298,2300,2598,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Information technology,364,2072,2436,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Information technology,286,2138,2423,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Information technology,318,2040,2357,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Information technology,318,1953,2271,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Information technology,286,1434,1720,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Information technology,264,1505,1769,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Information technology,262,1023,1285,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Telecommunications,930.481,5587.329,6517.81,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Telecommunications,931.641,5580.459450467543,6097.9710000000005,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Telecommunications,892.6759907,6699.510450467543,7177.984990700001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Telecommunications,1468.2279906000003,7012.600518067542,7798.0070582,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Telecommunications,1255,7070,7642,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Telecommunications,1312.5079906,6975.700518067542,7605.387058200001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Telecommunications,1299.494134,6479.646518067542,7096.3732016,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Telecommunications,1299.4294001,6404.890903367543,7021.5588529999995,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Telecommunications,1350.6004002000002,6403.9051568475425,7071.8161065799995,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Telecommunications,1288.7104002,6443.955594405543,7016.316544138,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Telecommunications,1332.6994002,6402.295594405543,7052.305544138,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Telecommunications,1349.6846947000001,6667.327594405542,7300.702838638,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Telecommunications,1255,7070,7642,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Telecommunications,1351,6404,7072,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Telecommunications,1131,5472,6102,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Telecommunications,1016.1688358300003,5471.584685505542,5987.765526867999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Telecommunications,707,5664,6371,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Telecommunications,701.4390000000001,1946.1580000000001,2647.597,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Telecommunications,701.439,4577.133,5278.572,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Telecommunications,670,4567,5237,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Telecommunications,668,4511,5179,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Telecommunications,661,4567,5228,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Telecommunications,661,5207,5868,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Telecommunications,690,5199,5889,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Telecommunications,327,4923,5250,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Telecommunications,108.38,3733.87,3842.25,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Telecommunications,4289,526,4814,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Telecommunications,4288.523,525.779,4814.302,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Telecommunications,331.37,4931.483,5262.853,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Telecommunications,326.14,4892.083,5218.223,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Telecommunications,297.14,4763.313,5060.453,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Telecommunications,297.14,2013.314,2310.454,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Telecommunications,325,1409,1734,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Telecommunications,325,1295,1620,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Telecommunications,298,1353,1651,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Telecommunications,15,174,189,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Telecommunications,38,166,204,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Telecommunications,38,133,171,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Telecommunications,38,166,204,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Telecommunications,9,57,66,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Telecommunications,37,166,203,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Telecommunications,3,271,274,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Telecommunications,3,133,136,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Telecommunications,32,461,493,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Telecommunications,34,494,529,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Telecommunications,34,166,200,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Telecommunications,34,471,505,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Telecommunications,34,471,505,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Telecommunications,29,328,357,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Pharmaceuticals,425.546,744.327,1169.872,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Pharmaceuticals,433.5000000000001,744.3286,1116.0786000000003,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Pharmaceuticals,421.7300000000001,642.6086,1004.2986000000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Pharmaceuticals,420.2300000000001,645.6086,1005.7986000000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Pharmaceuticals,411,688,1039,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Pharmaceuticals,378.2405155,450.53860000000003,768.7391155,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Pharmaceuticals,375.56687500000004,462.53860000000003,778.0654750000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Pharmaceuticals,379.16687500000006,462.54,781.6668750000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Pharmaceuticals,386.66687500000006,470.54,797.1668750000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Pharmaceuticals,381.91687500000006,393.2267,715.1035750000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Pharmaceuticals,381.91687500000006,423.87,745.746875,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Pharmaceuticals,476.116874999999,326.872,742.948874999999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Pharmaceuticals,411,688,1039,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Pharmaceuticals,387,471,797,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Pharmaceuticals,439,262,641,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Pharmaceuticals,345.20822865,200.20020000000002,540.61842865,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Pharmaceuticals,313,192,505,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Pharmaceuticals,334.244,17.240000000000002,351.48400000000004,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Pharmaceuticals,334.244,180.739,514.9830000000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Pharmaceuticals,241,181,422,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Pharmaceuticals,217,190,407,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Pharmaceuticals,234,167,401,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Pharmaceuticals,186,177,363,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Pharmaceuticals,190,177,367,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Pharmaceuticals,160,177,337,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Pharmaceuticals,132.01,51.78,183.79,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Pharmaceuticals,132,10,141,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Pharmaceuticals,177.338,2.18,179.518,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Pharmaceuticals,127.67,179.518,307.188,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Pharmaceuticals,124.07,179.518,303.58799999999997,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Pharmaceuticals,127.672,179.518,307.19,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Pharmaceuticals,127.671,179.518,307.189,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Pharmaceuticals,116,177,293,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Pharmaceuticals,116,177,293,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Pharmaceuticals,116,269,385,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Pharmaceuticals,113,269,382,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Pharmaceuticals,111,824,935,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Pharmaceuticals,101,687,788,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Pharmaceuticals,101,687,788,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Pharmaceuticals,10,656,666,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Pharmaceuticals,10,656,666,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Pharmaceuticals,9,656,665,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Pharmaceuticals,9,555,564,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Pharmaceuticals,9,658,667,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Pharmaceuticals,24,658,682,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Pharmaceuticals,24,606,630,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Pharmaceuticals,24,608,632,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Pharmaceuticals,39,608,647,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Pharmaceuticals,15,51,66,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Biotechnology,209.96,106.6,316.56,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Biotechnology,220.89999999999998,106.60014999999999,325.04015,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Biotechnology,220.89999999999998,141.61015,325.0401499999999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Biotechnology,221.89999999999998,141.61015,326.0401499999999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Biotechnology,223,142,327,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Biotechnology,223.02999999999997,141.61015,327.1701499999999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Biotechnology,222.5499999999999,141.49015,326.6901499999999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Biotechnology,220.54999999999998,140.29014999999993,324.69014999999996,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Biotechnology,203.53,105.44014999999999,307.67015,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Biotechnology,219.50000000000003,140.31015,326.64015,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Biotechnology,255.22000000000003,108.44014999999999,362.36015000000003,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Biotechnology,241.21999999999997,140.31015000000002,348.36015,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Biotechnology,223,142,327,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Biotechnology,204,105,308,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Biotechnology,226,290,516,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Biotechnology,217.96565149999998,290.06015,508.0258015,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Biotechnology,150,275,425,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Biotechnology,184.086,275.026,459.112,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Biotechnology,165.478,268.427,433.90500000000003,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Biotechnology,165,275,440,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Biotechnology,77,275,352,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Biotechnology,145,276,421,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Biotechnology,164,276,440,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Biotechnology,164,276,440,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Biotechnology,163,276,439,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Biotechnology,163.19,276.06,439.25,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Biotechnology,276,0,276,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Biotechnology,276.056,0,276.056,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Biotechnology,161.57,31.607,193.177,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Biotechnology,161.57,31.608,193.178,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Biotechnology,150.78,31.608,182.388,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Biotechnology,150.778,9.107,159.885,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Biotechnology,111,0,111,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Biotechnology,114,0,114,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Biotechnology,87,0,87,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Biotechnology,88,0,88,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Biotechnology,87,,87,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Biotechnology,65,,65,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Biotechnology,55,,55,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Biotechnology,32,0,32,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Biotechnology,72,,72,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Biotechnology,45,,45,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Biotechnology,45,,45,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Biotechnology,72,,72,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Biotechnology,70,,70,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Biotechnology,70,,70,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Biotechnology,70,0,70,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Biotechnology,70,0,70,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Biotechnology,49,0,49,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Media/ Entertainment,927.654,792.28,1719.933,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Media/ Entertainment,858.1580001999997,781.2415947090001,1079.9056522,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Media/ Entertainment,1004.3919384959988,762.864157349,1197.279590495999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Media/ Entertainment,1148.321938496,827.3821573490001,1405.7295904960001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Media/ Entertainment,1011,830,1271,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Media/ Entertainment,1180.4988927959998,1056.674392649,1667.708580896,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Media/ Entertainment,1078.4926807959998,1107.493707109,1615.8390421959998,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Media/ Entertainment,865.6504833959989,904.4349977090001,1266.868135395999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Media/ Entertainment,930.3673242959998,961.2515022769599,1415.1049762959997,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Media/ Entertainment,874.247441796,866.6431887,1352.195093796,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Media/ Entertainment,717.4850042959999,849.6538793011259,1188.922651296,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Media/ Entertainment,812.4001552959999,934.399816101125,1356.427807295999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Media/ Entertainment,1011,830,1271,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Media/ Entertainment,930,961,1415,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Media/ Entertainment,494,703,1076,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Media/ Entertainment,398.88884980000006,748.4915357,1027.6765018,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Media/ Entertainment,391,771,1162,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Media/ Entertainment,416.64900000000006,225.973,642.6220000000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Media/ Entertainment,416.648,583.204,999.852,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Media/ Entertainment,414,595,1009,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Media/ Entertainment,414,585,999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Media/ Entertainment,313,650,963,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Media/ Entertainment,389,700,1089,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Media/ Entertainment,479,702,1181,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Media/ Entertainment,367,663,1030,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Media/ Entertainment,229.26,701.6,930.86,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Media/ Entertainment,662,40,702,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Media/ Entertainment,661.836,39.759,701.595,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Media/ Entertainment,250.08,661.836,911.916,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Media/ Entertainment,250.07,661.836,911.906,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Media/ Entertainment,149.15,669.337,818.487,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Media/ Entertainment,47.049,669.336,716.385,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Media/ Entertainment,235,630,865,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Media/ Entertainment,235,630,865,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Media/ Entertainment,83,669,752,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Media/ Entertainment,132,120,252,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Media/ Entertainment,128,594,722,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Media/ Entertainment,47,547,594,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Media/ Entertainment,47,581,628,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Media/ Entertainment,27,213,240,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Media/ Entertainment,51,219,270,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Media/ Entertainment,2,219,221,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Media/ Entertainment,12,175,187,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Media/ Entertainment,49,180,229,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Media/ Entertainment,49,219,268,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Media/ Entertainment,49,219,268,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Media/ Entertainment,49,34,83,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Media/ Entertainment,49,34,83,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Media/ Entertainment,49,64,113,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Services Sector,2129.61,2393.592,4523.202,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Services Sector,2187.8620708079993,2334.7264114401883,3797.9191980813966,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Services Sector,2255.660361814,2108.818236694,3379.244489087399,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Services Sector,2427.9602110139995,2352.6524528219998,3697.2762982873983,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Services Sector,2553,2513,3867,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Services Sector,2868.418328489999,2749.03453942873,4146.63342159813,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Services Sector,2923.6623767899987,2755.2231084287305,4205.974678898128,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Services Sector,2940.4774285899975,2545.3686756775314,4057.2152979469283,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Services Sector,3008.1654128,2608.8501644275307,4169.97477090693,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Services Sector,3086.9141160999993,2738.50176267344,4276.105072452839,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Services Sector,4085.3784507000005,2783.8074220365443,5280.503331017071,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Services Sector,3519.76899746,2854.161259613874,4663.739270007242,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Services Sector,2553,2513,3867,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Services Sector,3008,2609,4170,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Services Sector,2827,2664,3809,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Services Sector,2711.829838459999,2587.810370926667,3687.791650249287,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Services Sector,2738,2518,5256,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Services Sector,2702.377,2103.4990000000003,4805.876,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Services Sector,2684.578,2106.352,4790.93,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Services Sector,2582,628,3210,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Services Sector,2546,2216,4762,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Services Sector,2459,1865,4324,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Services Sector,2527,2197,4724,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Services Sector,2498,2194,4692,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Services Sector,2495,2092,4587,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Services Sector,2343.85,1937.76,4281.61,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Services Sector,1719,251,1970,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Services Sector,1704.191,202.539,1906.73,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Services Sector,1801.53,1820.054,3621.584,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Services Sector,1109.69,1800.753,2910.443,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Services Sector,1498.67,1794.039,3292.709,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Services Sector,1664.479,1753.736,3418.215,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Services Sector,1725,1683,3408,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Services Sector,1336,1511,2847,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Services Sector,1303,1505,2808,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Services Sector,1349,1495,2844,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Services Sector,1227,1505,2732,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Services Sector,1105,213,1318,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Services Sector,1072,206,1278,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Services Sector,878,197,1075,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Services Sector,973,1416,2389,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Services Sector,180,2066,2246,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Services Sector,780,1326,2106,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Services Sector,921,1899,2820,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Services Sector,687,1649,2336,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Services Sector,532,1355,1887,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Services Sector,535,1521,2056,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Services Sector,543,2291,2834,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Services Sector,754,254,1008,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Industrial Products,1216.964,1505.91,2722.874,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Industrial Products,1266.9659585999996,1487.30969,2476.5496485999997,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Industrial Products,1204.2489585999997,1498.08749,2386.4766485999994,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Industrial Products,1251.6389586,1443.528816760563,2377.4606486,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Industrial Products,1273,1319,2274,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Industrial Products,1217.9753349999999,1318.73769,2219.007025,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Industrial Products,1241.36508007,1319.11769,2242.7767700699997,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Industrial Products,1303.85508007,1323.61769,2309.76677007,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Industrial Products,1287.172080069999,1297.582643268106,2286.278723338105,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Industrial Products,1213.80894507,1307.24269,2202.97563507,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Industrial Products,1265.30783007,878.108163534535,1844.5548300699998,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Industrial Products,1065.1636950700001,915.8281535345351,1662.91068507,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Industrial Products,1273,1319,2274,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Industrial Products,1287,1298,2286,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Industrial Products,1041,841,1602,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Industrial Products,1023.168751089,859.8318202012017,1603.0594077556666,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Industrial Products,1018,492,1510,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Industrial Products,943.2540000000001,681.687,1624.9410000000003,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Industrial Products,967.845,524.137,1491.982,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Industrial Products,950,579,1529,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Industrial Products,870,445,1315,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Industrial Products,951,114,1065,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Industrial Products,953,114,1067,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Industrial Products,1032,114,1146,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Industrial Products,970,115,1085,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Industrial Products,921.5,383.71,1305.21,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Industrial Products,434,0,434,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Industrial Products,151.849,0,151.849,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Industrial Products,743.14,434.209,1177.349,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Industrial Products,741.72,427.409,1169.129,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Industrial Products,635.59,427.408,1062.998,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Industrial Products,611.671,427.408,1039.0790000000002,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Industrial Products,722,392,1114,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Industrial Products,716,73,789,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Industrial Products,676,42,718,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Industrial Products,546,42,588,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Industrial Products,509,42,551,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Industrial Products,457,12,469,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Industrial Products,446,42,488,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Industrial Products,402,12,414,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Industrial Products,300,12,312,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Industrial Products,223,632,855,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Industrial Products,304,12,316,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Industrial Products,312,188,500,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Industrial Products,329,188,517,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Industrial Products,314,44,358,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Industrial Products,111,0,111,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Industrial Products,128,0,128,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Industrial Products,108,0,108,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Real Estate,10412.955,2151.49,12564.445,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Real Estate,10841.523530699993,2139.1232211200004,11763.873530699993,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Real Estate,9627.068378755728,1779.973701119999,10193.668378755727,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Real Estate,11481.732943683994,1758.32,12048.332943683994,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Real Estate,11486,1751,12053,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Real Estate,11081.97112668,1175.03,11600.57112668,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Real Estate,8999.943569479996,1183.069999999999,9566.543569479996,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Real Estate,10975.923159900001,1098.52,11478.723159900002,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Real Estate,10924.385990399998,1155.73,11472.025990399998,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Real Estate,8560.309361399992,1093.22,9063.109361399991,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Real Estate,10457.877796699999,1142.87,10992.657796699998,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Real Estate,10056.42825429999,992.25,10583.22825429999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Real Estate,11486,1751,12053,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Real Estate,10924,1156,11472,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Real Estate,9015,976,9537,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Real Estate,8573.935847703991,961.139999999999,9095.935847703991,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Real Estate,8190,485,8675,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Real Estate,7744.939000000001,30,7774.939000000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Real Estate,5255.852,30,5285.852,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Real Estate,6559,0,6559,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Real Estate,5569,303,5872,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Real Estate,5280,298,5578,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Real Estate,4962,513,5475,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Real Estate,4820,487,5307,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Real Estate,3901,458,4359,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Real Estate,3681.45,435.45,4116.9,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Real Estate,298,138,435,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Real Estate,297.81,42.673,340.483,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Real Estate,2929.89,347.583,3277.473,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Real Estate,1822.58,372.563,2195.143,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Real Estate,3241.73,372.563,3614.293,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Real Estate,3268.206,372.559,3640.7650000000003,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Real Estate,3202,330,3532,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Real Estate,3882,36,3918,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Real Estate,3071,36,3107,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Real Estate,2487,36,2523,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Real Estate,2592,36,2628,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Real Estate,,,,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Others,14339.009000000002,23983.64,38322.651,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Others,14140.999417423996,23639.0864788938,31891.07525142281,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Others,14501.908846610988,25314.352571902044,33700.71677361805,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Others,16025.788954556998,26208.831432447892,35535.43315247966,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Others,16800,26421,36201,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Others,16814.84526471198,26427.444851371736,36343.31235270344,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Others,17634.204229521383,27061.103986668695,37712.0088168098,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Others,17819.584409644493,27250.80859456864,38059.344483132874,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Others,17137.181434942995,26548.458870884257,37065.90345139204,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Others,16726.705332719994,27134.577842962695,37342.409143782694,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Others,18364.176909045993,25485.246361739493,37418.52947295434,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Others,18543.81,27705.61,39778.49,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Others,16800,26421,36201,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Others,17137,26548,37066,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Others,15713,28864,38220,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Others,14976.739586642996,29121.756480893524,37969.54072478906,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Others,14096,30830,44926,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Others,14389.873,27571.286,41961.159,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Others,13153.426999999998,23322.188,36475.615,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Others,11978,22929,34907,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Others,10294,22252,32546,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Others,10168,20153,30321,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Others,10411,30164,40575,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Others,10313,31788,42101,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Others,9526,36501,46027,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Others,8616.66,29583.5,38200.16,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Others,35803,4196,39999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Others,33858.81,4703.402,38562.21,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Others,8059.69,45370.350999999995,53430.041,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Others,7374.77,45370.350999999995,52745.121,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Others,6980.02,46901.34,53881.36,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Others,6726.117,44462.592,51188.708999999995,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Others,6753,38684,45437,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Others,6191,39898,46089,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Others,5995,39124,45119,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Others,5002,34015,39017,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Others,4352,39534,43886,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Others,6684,35000,41684,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Others,6289,39239,45528,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Others,4764,37132,41896,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Others,4149,42369,46518,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Others,2499,37055,39554,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Others,2505,39614,42119,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Others,2498,41728,44226,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Others,2307,48673,50980,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Others,2312,48854,51166,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Others,2023,43042,45065,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Others,1987,50503,52490,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Others,1661,45945,47606,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q1,Total,31336.265,41173.971,62866.0801781674,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q2,Total,31669.031024342992,40848.37965201853,63309.81813300321,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q3,Total,30974.925600976712,43139.778439232585,64336.08382895718,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013,Q4,Total,35400.00831796199,44889.321054335,69519.56268964606,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q1,Total,35986,45263,70054,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q2,Total,36083.63106418898,44635.54091742101,69892.54248059256,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q3,Total,34847.0826364214,44942.888868578,68904.14036682193,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014,Q4,Total,37170.518015290494,44660.83398219859,71060.52773761167,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q1,Total,36562.81935913199,44516.434745701175,71008.08700703285,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q2,Total,33951.46278077399,44324.93325916455,67897.31007825039,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q3,Total,38666.50824162499,42949.44766154012,71326.63258101128,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015,Q4,Total,37903.4191659369,45386.9451035339,72849.0791989385,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q1,Total,35987,45262,70054,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q2,Total,36563,44516,71008,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q3,Total,32212,45381,67864,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016,Q4,Total,30487.994404829988,45347.24153339094,66511.80885833401,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q1,Total,28813,46031,74844,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q2,Total,28649.122000000003,35060.642,63709.764,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q3,Total,24931.021999999997,36325.204,61256.225999999995,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017,Q4,Total,24661,34281,58942,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q1,Total,21679,34906,56585,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q2,Total,21302,32282,53584,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q3,Total,21380,43451,64831,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018,Q4,Total,21327,45406,66733,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q1,Total,18938,49661,68599,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q2,Total,17176.45,40893.62,58070.07000000001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q3,Total,47548,5332,52880,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019,Q4,Total,45094.773,5688.442,40893.62,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q1,Total,15420.235,57835.858,73256.093,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q2,Total,12892.45,57762.179,70654.629,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q3,Total,14035.65,59143.182,73178.832,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020,Q4,Total,13741.364,53758.583,67499.947,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q1,Total,13956,46802,60758,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q2,Total,13656,46693,60349,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q3,Total,12301,46293,58594,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021,Q4,Total,10344,39431,49776,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q1,Total,9548,45962,55510,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q2,Total,8896,39702,48598,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q3,Total,8399,44097,52496,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022,Q4,Total,6392,41443,47835,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q1,Total,5903,48286,54189,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q2,Total,3259,43199,46458,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q3,Total,4021,43888,47910,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023,Q4,Total,4178,47251,51429,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q1,Total,3818,53922,57739,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q2,Total,3653,53197,56850,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q3,Total,3132,47110,50242,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024,Q4,Total,3114,55412,58526,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2025,Q1,Total,2927,47665,50592,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105

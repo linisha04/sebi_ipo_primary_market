@@ -1,0 +1,238 @@
+fiscal_year,fund_type,sector,investment_inr_crore,released_on,updated_on,data_source,data_url
+2013-14,fvci,Biotechnology,142,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Industrial Products,1319,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Information Technology,4529,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Media/Entertainment,830,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Others,26421,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Pharmaceuticals,688,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Real estate,1751,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Services Sector,2513,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Telecommunication,7070,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,fvci,Total,45263,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Biotechnology,223,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Industrial Products,1273,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Information Technology,974,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Media/Entertainment,1011,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Others,16800,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Pharmaceuticals,411,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Real estate,11486,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Services Sector,2553,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Telecommunication,1255,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2013-14,vcf,Total,35986,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Biotechnology,105.44014999999999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Industrial Products,1297.582643268106,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Information Technology,4964.676257996781,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Media/Entertainment,961.2515022769599,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Others,26548.458870884257,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Pharmaceuticals,470.54,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Real estate,1155.73,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Services Sector,2608.8501644275307,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Telecommunication,6403.9051568475425,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,fvci,Total,44516.434745701175,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Biotechnology,203.53,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Industrial Products,1287.172080069999,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Information Technology,1334.7498414230001,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Media/Entertainment,930.3673242959998,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Others,17137.181434942995,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Pharmaceuticals,386.66687500000006,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Real estate,10924.385990399998,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Services Sector,3008.1654128,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Telecommunication,1350.6004002000002,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2014-15,vcf,Total,36562.81935913199,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Biotechnology,142,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Industrial Products,1319,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Information Technology,4529,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Media/Entertainment,830,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Others,26421,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Pharmaceuticals,688,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Real estate,1751,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Services Sector,2513,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Telecommunication,7070,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,fvci,Total,45262,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Biotechnology,223,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Industrial Products,1273,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Information Technology,974,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Media/Entertainment,1011,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Others,16800,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Pharmaceuticals,411,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Real estate,11486,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Services Sector,2553,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Telecommunication,1255,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2015-16,vcf,Total,35987,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Biotechnology,275,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Industrial Products,492,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Information Technology,4805,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Media/Entertainment,771,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Others,30830,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Pharmaceuticals,192,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Real estate,485,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Services Sector,2518,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Telecommunication,5664,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,fvci,Total,46031,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Biotechnology,150,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Industrial Products,1018,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Information Technology,1210,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Media/Entertainment,391,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Others,14096,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Pharmaceuticals,313,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Real estate,8190,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Services Sector,2738,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Telecommunication,707,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2016-17,vcf,Total,28813,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Biotechnology,275,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Industrial Products,445,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Information Technology,4129,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Media/Entertainment,585,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Others,22252,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Pharmaceuticals,190,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Real estate,303,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Services Sector,2216,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Telecommunication,4511,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,fvci,Total,34906,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Biotechnology,77,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Industrial Products,870,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Information Technology,1025,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Media/Entertainment,414,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Others,10294,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Pharmaceuticals,217,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Real estate,5569,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Services Sector,2546,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Telecommunication,668,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2017-18,vcf,Total,21679,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Biotechnology,276,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Industrial Products,115,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Information Technology,4457,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Media/Entertainment,663,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Others,36501,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Pharmaceuticals,177,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Real estate,458,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Services Sector,2092,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Telecommunication,4923,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,fvci,Total,49661,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Biotechnology,163,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Industrial Products,970,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Information Technology,1028,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Media/Entertainment,367,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Others,9526,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Pharmaceuticals,160,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Real estate,3901,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Services Sector,2495,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Telecommunication,327,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2018-19,vcf,Total,18938,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Biotechnology,31.607,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Industrial Products,434.209,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Information Technology,4059.217,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Media/Entertainment,661.836,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Others,45370.350999999995,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Pharmaceuticals,179.518,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Real estate,347.583,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Services Sector,1820.054,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Telecommunication,4931.483,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,fvci,Total,57835.858,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Biotechnology,161.57,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Industrial Products,743.14,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Information Technology,1015.29,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Media/Entertainment,250.08,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Others,8059.69,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Pharmaceuticals,127.67,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Real estate,2929.89,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Services Sector,1801.53,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Telecommunication,331.37,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2019-20,vcf,Total,15420.235,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Industrial Products,392,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Information Technology,3497,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Media/Entertainment,630,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Others,38684,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Pharmaceuticals,177,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Real estate,330,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Services Sector,1683,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Telecommunication,1409,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,fvci,Total,46802,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Biotechnology,111,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Industrial Products,722,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Information Technology,767,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Media/Entertainment,235,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Others,6753,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Pharmaceuticals,116,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Real estate,3202,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Services Sector,1725,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Telecommunication,325,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2020-21,vcf,Total,13956,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Industrial Products,42,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Information Technology,3261,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Media/Entertainment,594,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Others,39534,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Pharmaceuticals,824,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Real estate,36,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Services Sector,1505,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Telecommunication,166,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,fvci,Total,45962,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Biotechnology,87,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Industrial Products,509,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Information Technology,504,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Media/Entertainment,128,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Others,4352,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Pharmaceuticals,111,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Real estate,2592,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Services Sector,1227,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Telecommunication,38,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2021-22,vcf,Total,9548,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Industrial Products,12,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Information Technology,3448,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Media/Entertainment,219,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Others,42362.72,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Pharmaceuticals,656,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Real estate,6.28,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Services Sector,1416,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Telecommunication,166,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,fvci,Total,48286,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Biotechnology,72,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Industrial Products,300,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Information Technology,311,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Media/Entertainment,51,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Others,2916.7690000000002,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Pharmaceuticals,10,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Real estate,1232.231,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Services Sector,973,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Telecommunication,37,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2022-23,vcf,Total,5903,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Biotechnology,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Industrial Products,188,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Information Technology,2040,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Media/Entertainment,219,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Others,48673,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Pharmaceuticals,658,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Real estate,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Services Sector,1649,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Telecommunication,494,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,fvci,Total,53921,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Biotechnology,70,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Industrial Products,329,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Information Technology,318,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Media/Entertainment,49,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Others,2307,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Pharmaceuticals,24,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Real estate,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Services Sector,687,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Telecommunication,34,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2023-24,vcf,Total,3818,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Biotechnology,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Industrial Products,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Information Technology,1023,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Media/Entertainment,64,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Others,45945,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Pharmaceuticals,51,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Real estate,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Services Sector,254,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Telecommunication,328,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,fvci,Total,47665,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Biotechnology,49,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Industrial Products,108,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Information Technology,262,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Media/Entertainment,49,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Others,1661,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Pharmaceuticals,15,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Real estate,0,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Services Sector,754,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Telecommunication,29,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
+2024-25,vcf,Total,2927,2025-12-10,2026-04-08,Securities and Exchange Board of India,https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=4&ssid=80&smid=105
